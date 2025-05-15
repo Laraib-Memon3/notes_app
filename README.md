@@ -24,6 +24,10 @@ This is a simple Notes app built using Flutter, Firebase Authentication, Firebas
 
 ### Follow the steps below to run App:
 
-- git clone https://github.com/fazalullahmemon/notes_app.git
+- git clone https://github.com/Laraib-Memon3/notes_app
+- git clone 
 - cd notes_app
 - flutter run
+
+  **Video**
+  https://github.com/user-attachments/assets/6de3ffcf-0f7c-456c-a529-6e671e862e46
