@@ -30,4 +30,4 @@ This is a simple Notes app built using Flutter, Firebase Authentication, Firebas
 - flutter run
 
   **Video**
-  https://github.com/user-attachments/assets/6de3ffcf-0f7c-456c-a529-6e671e862e46
+  https://github.com/user-attachments/assets/8088a8e1-e89a-4cd6-a4a1-8ba5019550c8
